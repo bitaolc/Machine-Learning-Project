@@ -99,7 +99,7 @@ little bit lower. We need to try another model.
     Detection Prevalence   0.2845   0.1935   0.1743   0.1638   0.1839
     Balanced Accuracy      0.9984   0.9952   0.9942   0.9963   0.9992
 
-![](project_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](https://github.com/bitaolc/Machine-Learning-Project/blob/master/unnamed-chunk-3-1.png)
 
 The accuracy of the random forests model is 0.995. The expected
 out-of-sample error is 100-99.49 = 0.51%. We will use it to predict the

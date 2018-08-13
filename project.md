@@ -27,7 +27,7 @@ higher accuracy.
 
 The tree plot is shown as below:
 
-![](https://github.com/bitaolc/Machine-Learning-Project/unnamed-chunk-2-1.png)
+![](https://github.com/bitaolc/Machine-Learning-Project/blob/master/unnamed-chunk-2-1.png)
 
     Confusion Matrix and Statistics
 
